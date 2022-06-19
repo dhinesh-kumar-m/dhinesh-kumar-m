@@ -1,5 +1,9 @@
 Hi 👋 My name is Dhinesh Kumar
-==============================Software Developer------------------* 🌍  I'm based in India* ✉️  You can contact me at [dhineshdk.info@gmail.com](mailto:dhineshdk.info@gmail.com)
+==============================
+Software Developer
+------------------
+* 🌍  I'm based in India
+* ✉️  You can contact me at [dhineshdk.info@gmail.com](mailto:dhineshdk.info@gmail.com)
 
 ### Skills
 
